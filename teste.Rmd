@@ -13,10 +13,7 @@ teste
 ```{r cars}
 summary(cars)
 ```
-
-
 plot
-
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
